@@ -5,3 +5,5 @@
 - Word Guessing Game: Guessing the word chosen from the list of random words.
 - Hangman Game : a player writes down the first and last letters of a word and another player guesses the letters in between. In other sources, the game is called “Gallows”, “The Game of Hangin”, or “Hanger”. 
 - Rock Paper Scissor Game :  In this game, the user gets the first chance to pick the option between Rock, paper, and scissors. After the computer select from the remaining two choices(randomly), the winner is decided as per the rules.
+- PDF comparison : Comparing 2 pdfs
+- Voice Recorder : Recording the voice with certain frequency and distribution also playing the saved audio file
